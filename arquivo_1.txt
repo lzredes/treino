@@ -1,0 +1,5 @@
+arquivo_1.txt
+README.md
+teste2.txt
+teste3.txt
+teste.txt
